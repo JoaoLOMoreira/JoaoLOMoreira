@@ -18,10 +18,6 @@
   <img align="center" alt="Joao-myslq" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 <hr>
-<div style="display: inline_block"><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaolmoreira&show_icons=true&locale=en&layout=compact" alt="joaolmoreira"/>
-</div>
-  <hr>
 <p>Contatos:</p>
 <div> 
   <a href="https://www.instagram.com/joaomoreira.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,12 +25,4 @@
   <a href="www.linkedin.com/in/joão-lucas-oliveria-moreira-72616b1a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
-<hr>
-
-
-
-
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.pinimg.com/originals/6a/be/94/6abe94901928b887d3227ef605969a09.gif)
