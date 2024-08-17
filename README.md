@@ -25,4 +25,5 @@
   <a href="www.linkedin.com/in/joão-lucas-oliveria-moreira-72616b1a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
+
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.pinimg.com/originals/6a/be/94/6abe94901928b887d3227ef605969a09.gif)
