@@ -2,7 +2,6 @@
    
    <h2>👋 Olá! Eu sou João Lucas</h2>
     <p>Sou um desenvolvedor fullstack apaixonado por tecnologia, atualmente morando no interior de São Paulo. Minha jornada na área de desenvolvimento envolve uma sólida experiência com Angular, TypeScript e .NET C# Core, sempre buscando entregar soluções robustas e escaláveis.</p>
-
     <h3>Atualmente, estou focado em dois grandes projetos:</h3>
     <ul>
         <li>
@@ -12,17 +11,9 @@
             <strong>Sistema On-premises com WPF C#:</strong> Além do projeto SaaS, também estou desenvolvendo um sistema com WPF e C# para ambientes On-premises. Este projeto é focado em arquitetura local, onde a performance e a integração com sistemas legados são cruciais.
         </li>
     </ul>
-
     <p>Por enquanto, não tenho muitos projetos públicos por aqui, pois no tempo livre atuo em um outro projeto privado. No entanto, em um futuro próximo, pretendo compartilhar algumas POCs (Proof of Concept) e projetos mais elaborados, com o objetivo de mostrar meu trabalho e contribuir para a comunidade.</p>
-
-
     <hr>
-
-
-
-    <hr>
-
-    <p>Contatos:</p>
+<p>Contatos:</p>
     <div>
         <a href="https://www.instagram.com/joaomoreira.exe" target="_blank">
             <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -34,5 +25,4 @@
             <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
     </div>
-
     <img src="https://i.pinimg.com/originals/6a/be/94/6abe94901928b887d3227ef605969a09.gif" alt="GIF">
