@@ -1,7 +1,7 @@
 <img src="https://nextshark.com/wp-content/uploads/2018/01/007.gif" alt="GIF">
    
    <h2>👋 Olá! Eu sou João Lucas</h2>
-    <p>Sou um desenvolvedor fullstack apaixonado por tecnologia, atualmente morando no interior de São Paulo. Minha jornada na área de desenvolvimento envolve uma sólida experiência com Angular, TypeScript e .NET C# Core, sempre buscando entregar soluções robustas e escaláveis.</p>
+    <p>Sou um desenvolvedor fullstack apaixonado por tecnologia, atualmente morando no interior de São Paulo. Minha jornada na área de desenvolvimento envolve uma sólida experiência com Angular, TypeScript, C# e .NET Core, sempre buscando entregar soluções robustas e escaláveis.</p>
     <h3>Atualmente, estou focado em dois grandes projetos:</h3>
     <ul>
         <li>
