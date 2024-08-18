@@ -11,7 +11,7 @@
             <strong>Sistema On-premises WPF C#:</strong> Além do projeto SaaS, também estou desenvolvendo um sistema com WPF e C# para ambientes On-premises. Este projeto é focado em arquitetura local.
         </li>
     </ul>
-    <P>Os dois projetos são da mesma empresa: </p> <a href="https://informa.solutions/" target="_blank">Informa Solutions</a>
+    <P>Os dois projetos são da mesma empresa: <a href="https://informa.solutions/" target="_blank">Informa Solutions</a> </p> 
     <p>Por enquanto, não tenho muitos projetos públicos por aqui, pois no tempo livre atuo em um outro projeto privado. No entanto, em um futuro próximo, pretendo compartilhar algumas POCs (Proof of Concept) e projetos mais elaborados, com o objetivo de mostrar meu trabalho e contribuir para a comunidade.</p>
     <hr>
 <p>Contatos:</p>
