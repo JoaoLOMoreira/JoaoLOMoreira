@@ -5,12 +5,13 @@
     <h3>Atualmente, estou focado em dois grandes projetos:</h3>
     <ul>
         <li>
-            <strong>Projeto SaaS WEB na nuvem Azure:</strong> Estou envolvido no desenvolvimento de uma aplicação SaaS que utiliza as tecnologias Angular, TypeScript e .NET C# Core. Neste projeto, tenho a oportunidade de trabalhar com a infraestrutura de nuvem da Azure, o que me permite construir soluções escaláveis e seguras para nossos usuários.
+            <strong>Projeto SaaS WEB na com Azure:</strong> Estou envolvido no desenvolvimento de uma aplicação SaaS que utiliza as tecnologias Angular, TypeScript, C# e .NET Core. Neste projeto, tenho a oportunidade de trabalhar com a infraestrutura de nuvem da Azure, o que me permite construir soluções escaláveis de baixo custo e seguras para nossos usuários.
         </li>
         <li>
-            <strong>Sistema On-premises com WPF C#:</strong> Além do projeto SaaS, também estou desenvolvendo um sistema com WPF e C# para ambientes On-premises. Este projeto é focado em arquitetura local, onde a performance e a integração com sistemas legados são cruciais.
+            <strong>Sistema On-premises WPF C#:</strong> Além do projeto SaaS, também estou desenvolvendo um sistema com WPF e C# para ambientes On-premises. Este projeto é focado em arquitetura local.
         </li>
     </ul>
+    <P>Os dois projetos são da mesma empresa: </p> <a href="https://informa.solutions/" target="_blank" alt="Informa Solutions">
     <p>Por enquanto, não tenho muitos projetos públicos por aqui, pois no tempo livre atuo em um outro projeto privado. No entanto, em um futuro próximo, pretendo compartilhar algumas POCs (Proof of Concept) e projetos mais elaborados, com o objetivo de mostrar meu trabalho e contribuir para a comunidade.</p>
     <hr>
 <p>Contatos:</p>
